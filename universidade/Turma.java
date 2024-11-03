@@ -3,25 +3,6 @@ package universidade;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/*  === Minha versão da Turma ===
-
-public class Turma {
-    private int numAlunos;
-    private int numMonitores;
-    private int professor;
-    private ArrayList monitores;
-    private ArrayList alunos;
-
-    public Turma(int numAlunos, int numMonitores, int professor, ArrayList monitores, ArrayList alunos) {
-        this.numAlunos = numAlunos;
-        this.numMonitores = numMonitores;
-        this.professor = professor;
-        this.monitores = monitores;
-        this.alunos = alunos;
-    }
-*/
-
 public class Turma {
     private int id;
     private String departamento;
